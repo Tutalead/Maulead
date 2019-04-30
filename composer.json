@@ -1,0 +1,15 @@
+{
+    "name": "tutalead/maulead",
+    "description": "tutalead addons for mautic",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tutalead",
+            "email": "sergetarnavsky@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+	"calssmap":["src"]
+}
+}
