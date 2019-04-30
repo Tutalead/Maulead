@@ -8,8 +8,9 @@
             "email": "sergetarnavsky@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
-    "autoload": {},
-    "psr-4": { "VendorName\\PackageName\\": "src/" }
+    "autoload": {
+	"psr-4": { "": "src/" }
+	}
 }
