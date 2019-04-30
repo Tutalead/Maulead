@@ -9,7 +9,7 @@
         }
     ],
     "require": {},
-    "autoload":{
-	"calssmap":["src"]
+    "autoload": {
+	"calssmap": ["src"]
 }
 }
