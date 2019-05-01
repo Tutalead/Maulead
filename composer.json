@@ -1,7 +1,7 @@
 {
     "name": "tutalead/maulead",
     "description": "tutalead addons for mautic",
-    "type": "project",
+    "type": "package",
     "authors": [
         {
             "name": "Tutalead",
